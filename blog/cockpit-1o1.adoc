@@ -1,0 +1,12 @@
+= Intro To Cockpit Project
+
+
+:revnumber: v1.0
+:revdate: 2020.10.14
+:author: Jscar
+
+
+image::.images/Tux.svg[Tux]
+
+I am using This [guide](https://www.vogella.com/tutorials/AsciiDoc/article.html)
+ 

@@ -1,0 +1,26 @@
+= Dancing with Security - Basic Steps
+
+== What are we going to cover?
+
+=== Basic
+
+* Risk Management
+* Backups
+* Network Discovery
+* Diagram Your Network
+* Wifi Guest Network
+* Pi-Hole
+
+=== Advanced
+
+* Network Segmentation
+* OpenWRT
+* VLANS
+
+== Risk Management
+
+Information Security Risk Management
+Is the process of managing risks associated with the use of information technology.
+It involves identifying, assessing, and treating risks to the confidentiality, integrity, and availability of an organization’s or individuals assets.
+
+image::../images/CIA.png[CIA-TRIAD]

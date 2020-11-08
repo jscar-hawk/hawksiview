@@ -4,8 +4,12 @@
 :revnumber: v1.0
 :revdate: 2020.10.14
 :author: Jscar
+:website_address: https://jscar-hawk.github.io/hawksiview/
 
 
-image::../images/Tux.svg[Tux]
+Here is the 5 minute UpScale talk I gave at SCaLE18x
+https://www.youtube.com/watch?v=a_KNSvJIf5E&feature=youtu.be&t=1368
 
-I am using This [guide](https://www.vogella.com/tutorials/AsciiDoc/article.html)
+image::../images/Cockpit-101-01.jpg[Cockpit-Project]
+
+The

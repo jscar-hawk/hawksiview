@@ -1,0 +1,47 @@
+= Keybase 101
+
+
+
+
+== Step 1 Download Keybase
+
+image::../images/keybase/keybase-01.png[Keybase_Website]
+
+image::../images/keybase/keybase-02.png[Keybase_Website]
+
+
+== Step 2 Install Keybase For Your OS
+
+
+image::../images/keybase/keybase-03.png[Keybase_Website]
+
+image::../images/keybase/keybase-04.png[Keybase_Website]
+
+== Step 3 Set Up Your Account
+
+image::../images/keybase/keybase-05.png[Keybase_Website]
+
+image::../images/keybase/keybase-06.png[Keybase_Website]
+
+image::../images/keybase/keybase-07.png[Keybase_Website]
+
+image::../images/keybase/keybase-08.png[Keybase_Website]
+
+image::../images/keybase/keybase-09.png[Keybase_Website]
+
+image::../images/keybase/keybase-10.png[Keybase_Website]
+
+image::../images/keybase/keybase-11.png[Keybase_Website]
+
+image::../images/keybase/keybase-12.png[Keybase_Website]
+
+image::../images/keybase/keybase-13.png[Keybase_Website]
+
+
+== Step 4 Add Your Mobile Device
+
+image::../images/keybase/keybase-14.png[Keybase_Website]
+
+image::../images/keybase/keybase-15.png[Keybase_Website]
+
+image::../images/keybase/keybase-13.png[Keybase_Website]

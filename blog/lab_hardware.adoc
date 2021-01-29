@@ -26,6 +26,8 @@ GeForce GTX 1050 Ti
 
 1 TB NVMe
 
+$572 (Not including Graphics card)
+
 === Thin Clients
 Used HP T630
 
@@ -47,3 +49,5 @@ UHD Graphics
 https://www.newegg.com/samsung-32gb-260-pin-ddr4-so-dimm/p/0RM-002H-00156[32 Gb Ram]
 
 https://www.newegg.com/western-digital-black-sn750-nvme-1tb/p/N82E16820250110[1 Tb NVMe]
+
+About $650 cost

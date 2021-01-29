@@ -1,0 +1,49 @@
+= My Lab Hardware
+
+== For Work
+
+=== Laptop
+Lenovo T480s
+
+Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+
+UHD Graphics 620
+
+16 Gb Ram
+
+1 TB NVMe
+
+=== Workstation
+https://pcpartpicker.com/product/WcjJ7P/gigabyte-b450-aorus-m-micro-atx-am4-motherboard-b450-aorus-m[PC Part Picker List]
+
+Gigabyte B450 AORUS M
+
+AMD Ryzen 5 2600 Six-Core Processor
+
+GeForce GTX 1050 Ti
+
+32 Gb Ram
+
+1 TB NVMe
+
+=== Thin Clients
+Used HP T630
+
+AMD Embedded G-Series GX-420GI Radeon R7E
+
+Radeon R5 Graphics
+
+16 Gb Ram
+
+1 Tb mSata
+
+=== Intel Next Unit of Computing (NUC)
+https://www.newegg.com/intel-bxnuc10i5fnh1/p/N82E16856102229[Intel NUC BXNUC10I5FNH1]
+
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+UHD Graphics
+
+https://www.newegg.com/samsung-32gb-260-pin-ddr4-so-dimm/p/0RM-002H-00156[32 Gb Ram]
+
+https://www.newegg.com/western-digital-black-sn750-nvme-1tb/p/N82E16820250110[1 Tb NVMe]

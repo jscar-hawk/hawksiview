@@ -10,6 +10,14 @@ Version 0.1, 2020.03.17
 :keywords: AsciiDoc
 :imagesdir: ./images
 
+== Cell Phones
+
+https://www.apple.com/shop/buy-iphone/iphone-xr[iPhone XR]
+
+https://www.apple.com/ipad/compare/?modelList=ipad-8th-gen,ipad-7th-gen,ipad-6th-gen[iPad 6th Gen]
+
+https://store.google.com/us/product/pixel_4a[Pixel4a]
+
 == Cell Phone Cage
 
 === Plastic
@@ -21,6 +29,8 @@ https://www.amazon.com/ULANZI-Pro-Smartphone-Filmmaking-Video-grapher/dp/B076FQC
 https://www.amazon.com/Smartphone-Filmmaking-Stabilizer-Videomaker-Videographer/dp/B08GK5NYXF/ref=sr_1_4?crid=2EF3IEG0QC1AL&dchild=1&keywords=smallrig+cell+phone+holder&qid=1616017711&s=electronics&sprefix=smallrig+cell%2Celectronics%2C218&sr=1-4[SmallRig Smartphone Video Rig - 2791]
 
 https://www.amazon.com/SmallRig-Power-Clamp-Mount-Camera/dp/B08JTGQGCX/ref=pd_bxgy_img_2/135-2595748-3908414?_encoding=UTF8&pd_rd_i=B08JTGQGCX&pd_rd_r=af74f204-2efb-4f64-882c-9d8961fed3c8&pd_rd_w=OsGxz&pd_rd_wg=2lzjX&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=S9B7AK3W8QGAXY27Q03Z&psc=1&refRID=S9B7AK3W8QGAXY27Q03Z[SmallRig Power Bank Clamp Mount]
+
+https://www.amazon.com/Pad-Mount-Compatible-Universal-Pro/dp/B076LVMX7X/ref=sr_1_22?crid=1GVDFQEADUPLC&dchild=1&keywords=tablet+holder+tripod+mount&qid=1616019241&s=electronics&sprefix=tablet+holder+tri%2Celectronics%2C235&sr=1-22[Ulanzi Aluminum Pad Tripod]
 
 == Microphone
 

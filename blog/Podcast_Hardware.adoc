@@ -1,0 +1,136 @@
+= Podcasting/AV Gear Recommendation
+Jscar
+Version 0.1, 2020.03.17
+:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: My Content
+
+:description: Example AsciiDoc document
+:keywords: AsciiDoc
+:imagesdir: ./images
+
+My Linux Audio and Video Setup
+
+With a large amount the workforce going remote, I wanted to share what I am using.
+
+== Operating System
+https://getfedora.org/en/workstation/[Fedora 33 Workstation]
+
+== Broadcasting Software
+https://obsproject.com/[Open Broadcast Studio]
+
+
+== Microphones
+
+=== Basic
+
+https://www.amazon.com/Razer-Seiren-Mini-Streaming-Microphone/dp/B08HH3FTYT/ref=sr_1_3?crid=3DMCJMSC33G9V&dchild=1&keywords=razer+seiren+mini&qid=1611341295&sprefix=Razer+Seiren%2Caps%2C308&sr=8-3[Razer Seiren Mini]
+
+=== Starter Mic
+
+https://www.amazon.com/Samson-Handheld-Microphone-Recording-Podcasting/dp/B001R747SG/ref=pd_cp_267_1/131-6860629-6754414?_encoding=UTF8&pd_rd_i=B001R747SG&pd_rd_r=280bdf2c-0298-4b2b-bc44-c5c1bd5e93f8&pd_rd_w=qD4YP&pd_rd_wg=cGfXE&pf_rd_p=4853e837-f87a-46d4-be32-dcf86bff7a7c&pf_rd_r=Q8FVB8F74Q0CK821FXKP&psc=1&refRID=Q8FVB8F74Q0CK821FXKP[Samson Q2U USB/XLR Dynamic Microphone Recording]
+
+
+
+=== New Mic
+
+https://www.amazon.com/Rode-PODMIC-Dynamic-Podcasting-Microphone/dp/B07MSCRCVK/ref=sr_1_6?dchild=1&keywords=rode+mic&qid=1611341230&sr=8-6[Rode PodMic]
+
+== USB audio interface:
+
+=== Beginner
+
+https://www.amazon.com/BEHRINGER-Audio-Interface-1-Channel-UM2/dp/B00EK1OTZC/ref=pd_di_sccai_9?_encoding=UTF8&pd_rd_i=B00EK1OTZC&pd_rd_r=82c1647e-12d6-4db1-9390-ee34368ea66c&pd_rd_w=kRgHx&pd_rd_wg=qk4Nc&pf_rd_p=e532f109-986a-4c2d-85fc-16555146f6b4&pf_rd_r=PB923F4ESHNW5B6DDBRR&psc=1&refRID=PB923F4ESHNW5B6DDBRR[BEHRINGER UM2 Audio Interface]
+
+
+=== Intermediate
+
+https://www.amazon.com/Audient-EVO-USB-Audio-Interface/dp/B084BGC5LR/ref=sr_1_1?dchild=1&keywords=evo+4&qid=1610739670&sr=8-1[Audient EVO 4]
+
+This does not work out of the box on Fedora 33, but there is a site that can help you get up and running with it.
+
+https://writepermission.com/evo4-pulseaudio-profile.html
+
+
+
+== Headset:
+
+=== Wired
+
+https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones[SENNHEISER HD 58X JUBILEE HEADPHONES]
+
+=== Wireless
+
+https://www.amazon.com/Jabra-Elite-Active-65t-Earbuds/dp/B08XWC1647/ref=sr_1_4?crid=353VW8KILI9I8&dchild=1&keywords=jabra+elite+active+65t&qid=1616016693&sprefix=jab%2Caps%2C268&sr=8-4[Jabra Elite Active 65t Earbuds]
+
+== Mic Stand:
+
+=== Starter
+
+https://www.amazon.com/InnoGear-Microphone-Windscreen-Suspension-Snowball/dp/B07CN2C93T/ref=sr_1_8?dchild=1&keywords=mic+stand&qid=1584722316&sr=8-8[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen]
+
+=== Better
+
+https://www.amazon.com/Neewer-Microphone-Compatible-Adjustable-Suspension/dp/B07T44VVGF/ref=sr_1_34?crid=2ZTHT9NUU7A9E&dchild=1&keywords=neewer+mic+stand&qid=1616015024&sprefix=neewer+mi%2Caps%2C441&sr=8-34[Neewer Upgraded Large Sturdier Microphone Stand]
+
+
+
+== Webcam and DSLR:
+https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S[Logitech HD Pro Webcam C920]
+
+https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6000-body-kit[Sony A6000]
+
+
+
+=== SmallRig Gear
+https://www.amazon.com/SMALLRIG-Camera-ILCE-6000-ILCE-6300-Mounting/dp/B0185IAYZY/ref=sr_1_3?dchild=1&keywords=smallrig+a6000&qid=1611341672&sr=8-3[SMALLRIG Camera Cage only for Sony A6000]
+
+https://www.amazon.com/SmallRig-Cable-Panasonic-Compatible-2049-1822/dp/B01K6LHR0S/ref=sr_1_6?dchild=1&keywords=smallrig+a6000&qid=1611341672&sr=8-6[SMALLRIG HDMI Cable Clamp]
+
+
+
+=== Tripod and Mounting Gear
+https://www.amazon.com/Moman-Release-Lightweight-Panning-Camcorder/dp/B07GNJXTBK/ref=sr_1_1_sspa?crid=142WGTFHNTZG0&dchild=1&keywords=moman+tripod+fluid+Drag+Pan+Handle&qid=1611341387&sprefix=moman+tri%2Caps%2C236&sr=8-1-spons&psc=1&smid=A3HWZULI0V6X2B&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySUcySEhBNzdSR1BPJmVuY3J5cHRlZElkPUEwODkwNTE0MlRCWDlSMzNHVUQ1NiZlbmNyeXB0ZWRBZElkPUExMDI1NzI5MjFaTEhFQ0xKNTdGQSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=[Moman Tripod Fluid Drag Pan Head]
+
+https://www.amazon.com/KINGJOY-Aluminum-Mid-Level-Spreader-VT-1500/dp/B07WGBM9VH/ref=sr_1_1?crid=1N2G0K3KN2KSZ&dchild=1&keywords=fluidheadtripod&qid=1611338948&sprefix=fluithead%2Caps%2C352&sr=8-1[KingJoy 66'' Camera Tripod]
+
+https://www.amazon.com/Dazzne-12-9-22inch-Tabletop-Adjustable-Aluminum/dp/B08KSTH7WN/ref=sr_1_2_sspa?crid=3QIEN5QLYTBT0&dchild=1&keywords=dazzne+desk+mount+stand&qid=1611341616&sprefix=Dazzne+desk+mount%2Caps%2C318&sr=8-2-spons&psc=1&smid=A1AGS4MWN9OLYN&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQ0o0VllKTThJSVhOJmVuY3J5cHRlZElkPUEwNjU2NDM3M0tMS0VUSFNLMzFDSCZlbmNyeXB0ZWRBZElkPUEwNTUzMzUzM0VMNFRNVlY3ODdCRiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=[Dazzne Desk Mount Stand]
+
+https://www.amazon.com/dp/B07TTGD8CG?ref=ppx_pop_mob_ap_share[CAMVATE Heavy-Duty C Clamp Articulated 1/4"-20 Ball Head Support Holder (Black Locking Knob)]
+
+== Here is my sit/stand desk
+https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12/301810799[Husky 62 in. Adjustable Height Work Table]
+
+
+== Video capture card
+Video capture card I use types that work with linux.
+
+=== With Pass-through HDMI
+
+https://plugable.com/products/usbc-cap60/[Plugable Performance NIX Capture Card]
+
+=== Without pass-through HDMI
+
+https://www.amazon.com/dp/B07QKXS52W/ref=cm_sw_r_em_apap_IjfRkF54cxksD[Mirabox Capture Card]
+
+https://www.amazon.com/Mirabox-Passthrough-Nintendo-Streaming-Recording/dp/B08NY3ZTTK/ref=sr_1_3?crid=31XCXOS7WYAFX&dchild=1&keywords=mirabox+capture+card&qid=1616015591&sprefix=mirabox%2Caps%2C244&sr=8-3[Mirabox USB3.0 4K HDMI Video Capture Card]
+
+
+
+== Lighting Setup
+
+=== On Camera Shoe
+
+https://www.amazon.com/VILTROX-L116T-3300K-5600K-Temperature-Brightness/dp/B07D8TTFSR[VILTROX L116T RA CRI95 Super Slim LED Light Panel]
+
+https://www.amazon.com/dp/B07N76GH4M?ref=ppx_pop_mob_ap_share[PK Power New Global AC/DC Adapter]
+
+=== Back Lighting
+
+https://www.homedepot.com/p/Philips-Color-and-Tunable-White-A19-LED-60W-Equivalent-Dimmable-Smart-Wi-Fi-Wiz-Connected-Wireless-Light-Bulb-555607/310289028[Philips Color LED Wi-Fi Wiz Connected Wireless Light Bulb]
+
+
+== Monitor
+
+https://www.amazon.com/Samsung-S34J55W-34-Inch-Ultrawide-LS34J550WQNXZA/dp/B07FBS36W2/ref=sr_1_2_sspa?dchild=1&keywords=samsung+32+inch+3840+x+1440&qid=1612985140&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSElQMjBCRkJVSEZBJmVuY3J5cHRlZElkPUEwOTM0MzY3MUw5UTNWQlZSRldBUCZlbmNyeXB0ZWRBZElkPUEwODkwMzQwWkNHWTBRSzIyRkpZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==[Samsung 34-Inch SJ55W Ultrawide Gaming Monitor]

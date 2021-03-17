@@ -1,0 +1,44 @@
+= Mobile Vlog/Podcasting Gear Recommendation
+Jscar
+Version 0.1, 2020.03.17
+:sectnums:
+:toc:
+:toclevels: 4
+:toc-title: My Content
+
+:description: Example AsciiDoc document
+:keywords: AsciiDoc
+:imagesdir: ./images
+
+
+== Cell Phone Accessories
+
+== Cell Phone Cage
+
+=== Plastic
+
+https://www.amazon.com/ULANZI-Pro-Smartphone-Filmmaking-Video-grapher/dp/B076FQCWQG/ref=sr_1_26?dchild=1&keywords=ulanzi+cell+phone+holder&qid=1616017594&s=electronics&sr=1-26[ULANZI U Rig Pro]
+
+=== Metal
+
+https://www.amazon.com/Smartphone-Filmmaking-Stabilizer-Videomaker-Videographer/dp/B08GK5NYXF/ref=sr_1_4?crid=2EF3IEG0QC1AL&dchild=1&keywords=smallrig+cell+phone+holder&qid=1616017711&s=electronics&sprefix=smallrig+cell%2Celectronics%2C218&sr=1-4[SmallRig Smartphone Video Rig - 2791]
+
+https://www.amazon.com/SmallRig-Power-Clamp-Mount-Camera/dp/B08JTGQGCX/ref=pd_bxgy_img_2/135-2595748-3908414?_encoding=UTF8&pd_rd_i=B08JTGQGCX&pd_rd_r=af74f204-2efb-4f64-882c-9d8961fed3c8&pd_rd_w=OsGxz&pd_rd_wg=2lzjX&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=S9B7AK3W8QGAXY27Q03Z&psc=1&refRID=S9B7AK3W8QGAXY27Q03Z[SmallRig Power Bank Clamp Mount]
+
+== Microphone
+
+=== Starter
+
+https://www.amazon.com/Movo-VXR10-Microphone-Windscreen-Smartphones/dp/B0723D3FVL/ref=sr_1_4?crid=166YWGF3YWCAS&dchild=1&keywords=movo+shotgun+microphone&qid=1616017510&s=electronics&sprefix=movo+shot%2Celectronics%2C298&sr=1-4[Movo VXR10]
+
+=== Better
+
+https://www.amazon.com/Rode-VideoMicro-Compact-Camera-Microphone/dp/B015R0IQGW/ref=sr_1_3?crid=2W2YEKIJM6X53&dchild=1&keywords=rode+microphone&qid=1616017982&s=electronics&sprefix=rode+%2Celectronics%2C249&sr=1-3[Rode VideoMicro]
+
+== Cables
+
+https://www.amazon.com/Replacement-Adapter-iPhone-Smartphone-VideoMicro/dp/B07DS2G279/ref=pd_bxgy_3/135-2595748-3908414?_encoding=UTF8&pd_rd_i=B07DS2G279&pd_rd_r=470f8225-4f75-469f-a22b-727c09028016&pd_rd_w=BzDXM&pd_rd_wg=88luX&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=AHWRQ4K0T2XEZ4NDZKTE&psc=1&refRID=AHWRQ4K0T2XEZ4NDZKTE[3.5mm TRS to 3.5mm TRRS Patch Adapter Cable]
+
+https://www.amazon.com/Apple-Lightning-Headphone-Jack-Adapter/dp/B01LXJFMGF/ref=pd_bxgy_2/135-2595748-3908414?_encoding=UTF8&pd_rd_i=B01LXJFMGF&pd_rd_r=470f8225-4f75-469f-a22b-727c09028016&pd_rd_w=BzDXM&pd_rd_wg=88luX&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=AHWRQ4K0T2XEZ4NDZKTE&psc=1&refRID=AHWRQ4K0T2XEZ4NDZKTE[Apple Lightning to 3.5 mm Headphone Jack Adapter]
+
+https://www.amazon.com/dp/B0849RB9BT?ref=ppx_pop_mob_ap_share[Female 3.5mm TRS Microphone Adapter Cable to USB Type-C Connector Dongle]

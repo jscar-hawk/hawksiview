@@ -124,7 +124,9 @@ https://www.amazon.com/Mirabox-Passthrough-Nintendo-Streaming-Recording/dp/B08NY
 
 https://www.amazon.com/VILTROX-L116T-3300K-5600K-Temperature-Brightness/dp/B07D8TTFSR[VILTROX L116T RA CRI95 Super Slim LED Light Panel]
 
-https://www.amazon.com/dp/B07N76GH4M?ref=ppx_pop_mob_ap_share[PK Power New Global AC/DC Adapter]
+https://www.amazon.com/dp/B071GYVL7C/ref=cm_sw_r_tw_dp_Q99B22J2P1REABJRG2EJ?_encoding=UTF8&psc=1[VILTROX 2m/6.5ft Premium External Power Supply 12V 2A Output AC/DC Adapter 100-240V Input for LED Light,L116T/L116B/L13T/L132B,VILTROX Monitor DC-70/DC-50, CE FC Certification]
+There are difference power supplies, but DO NOT USE THEM IF THEY ARE NOT 12V at 2A!
+You will cook your light, and once the magic smoke is out, it can't be put back in.
 
 === Back Lighting
 

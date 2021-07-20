@@ -81,6 +81,8 @@ https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T
 
 https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6000-body-kit[Sony A6000]
 
+If you go with another camera, you will need to check for clean HDMI out.
+A great sight to check for that is https://www.elgato.com/en/cam-link/camera-check.
 
 
 === SmallRig Gear

@@ -77,7 +77,13 @@ https://www.amazon.com/Neewer-Microphone-Compatible-Adjustable-Suspension/dp/B07
 
 
 == Webcam and DSLR:
+
+After 5 years of using this camera it died
 https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S[Logitech HD Pro Webcam C920]
+
+I am currently testing the Facecam and it works with a lot of software but not everything on linux.
+https://www.elgato.com/en/facecam [Elgato Facecam]
+
 
 https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6000-body-kit[Sony A6000]
 
@@ -118,6 +124,9 @@ https://www.amazon.com/dp/B07QKXS52W/ref=cm_sw_r_em_apap_IjfRkF54cxksD[Mirabox C
 
 https://www.amazon.com/Mirabox-Passthrough-Nintendo-Streaming-Recording/dp/B08NY3ZTTK/ref=sr_1_3?crid=31XCXOS7WYAFX&dchild=1&keywords=mirabox+capture+card&qid=1616015591&sprefix=mirabox%2Caps%2C244&sr=8-3[Mirabox USB3.0 4K HDMI Video Capture Card]
 
+Currently Testing this card out because it treats the HDMI as UVC which acks as a camera.
+So Video Calling, Camera, Mac & Linux all work out of the box.
+https://www.amazon.com/dp/B09D8VYLY7/ref=twister_B09FYXY72K?_encoding=UTF8&psc=1[EVGA XR1 lite Capture Card]
 
 
 == Lighting Setup

@@ -82,7 +82,7 @@ After 5 years of using this camera it died
 https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S[Logitech HD Pro Webcam C920]
 
 I am currently testing the Facecam and it works with a lot of software but not everything on linux.
-https://www.elgato.com/en/facecam [Elgato Facecam]
+https://www.elgato.com/en/facecam[Elgato Facecam]
 
 
 https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6000-body-kit[Sony A6000]

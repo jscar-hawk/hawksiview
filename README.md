@@ -5,7 +5,7 @@ My Name is Joshua, But I go by Jscar.
 ### Background
 
 #### Over 13+ Years in IT
-5 Years with **** Background including
+5 Years with DOD Background including
 - Hardening Via STIGs
 - Risk Management Framework (RMF)
 - Disconnected Networks
@@ -21,6 +21,7 @@ My Name is Joshua, But I go by Jscar.
 - Linux 101
 - Homelabs
 - 3D Printing
-- Raspberry Pi (35 and counting)
+- Raspberry Pi (42 and counting)
+- Online Streaming and Podcasting
 
 You can follow me on Twitter [@jscar_hawk](https://twitter.com/jscar_hawk).

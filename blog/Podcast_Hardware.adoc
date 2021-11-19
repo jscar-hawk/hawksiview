@@ -116,6 +116,10 @@ https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12
 == Video capture card
 Video capture card I use types that work with linux.
 
+If you are looking to use a DSLR Camera,
+you will have to make sure it supports Clean HDMI.
+Here is a great site to check for that https://www.elgato.com/en/cam-link/camera-check[elgato clean hdmi check]
+
 === With Pass-through HDMI
 
 https://plugable.com/products/usbc-cap60/[Plugable Performance NIX Capture Card]

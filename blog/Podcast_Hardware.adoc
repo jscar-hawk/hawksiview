@@ -14,8 +14,16 @@ My Linux Audio and Video Setup
 
 With a large amount the workforce going remote, I wanted to share what I am using.
 
+== Laptop 
+
+=== Work 
+Lenovo t480s
+
+=== Personal
+Framework Laptop
+
 == Operating System
-https://getfedora.org/en/workstation/[Fedora 33 Workstation]
+https://getfedora.org/en/workstation/[Fedora 35 Workstation]
 
 == Broadcasting Software
 https://obsproject.com/[Open Broadcast Studio]
@@ -48,6 +56,7 @@ https://www.amazon.com/BEHRINGER-Audio-Interface-1-Channel-UM2/dp/B00EK1OTZC/ref
 
 https://www.amazon.com/Audient-EVO-USB-Audio-Interface/dp/B084BGC5LR/ref=sr_1_1?dchild=1&keywords=evo+4&qid=1610739670&sr=8-1[Audient EVO 4]
 
+Works out of the Box With Fedora 35,
 This does not work out of the box on Fedora 33, but there is a site that can help you get up and running with it.
 
 https://writepermission.com/evo4-pulseaudio-profile.html

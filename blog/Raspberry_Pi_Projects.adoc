@@ -1,0 +1,97 @@
+= Raspberry PI Projects
+
+Thin client
+http://rpitc.blogspot.com/p/download.html
+
+wifi access point
+https://thepi.io/how-to-use-your-raspberry-pi-as-a-wireless-access-point/
+https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi
+
+Chromecast/dlna/upnp
+https://pimylifeup.com/raspberrypi-minidlna/
+https://bbrks.me/rpi-minidlna-media-server/
+
+PirateBox
+https://piratebox.cc/raspberry_pi:diy
+
+Remote USB hub
+https://www.virtualhere.com/usb_server_software
+
+KVM Pi
+https://pikvm.org/
+
+Kismit Pi
+https://www.kismetwireless.net/docs/readme/packages/
+
+Kali Pi
+https://whitedome.com.au/re4son/kali-pi/
+https://www.kali.org/get-kali/#kali-arm
+
+PwnPi
+http://pwnpi.sourceforge.net/
+
+"Sticky Fingers" Damn Vulnerable Raspberry Pi
+https://whitedome.com.au/re4son/sticky-fingers-dv-pi/
+
+Openvpn server/gateway client
+https://github.com/Nyr/openvpn-install
+
+Christmas Light controller
+https://www.instructables.com/Raspberry-Pi-Christmas-Tree-Light-Show/
+
+OctoPi
+https://octoprint.org/download/
+
+MalsoCNC controller
+https://www.maslowcnc.com/
+https://github.com/MaslowCNC/GroundControl/wiki/Raspberry-Pi
+
+Home Assistant
+https://www.home-assistant.io/installation/raspberrypi
+
+Minecraft server
+https://pimylifeup.com/raspberry-pi-minecraft-server/
+
+Pi Hole
+https://pi-hole.net/
+
+Unifi Network Controllers
+https://community.ui.com/questions/Step-By-Step-Tutorial-Guide-Raspberry-Pi-with-UniFi-Controller-and-Pi-hole-from-scratch-headless/e8a24143-bfb8-4a61-973d-0b55320101dc
+
+SDR Monitor station
+https://www.rtl-sdr.com/tutorial-setting-up-a-low-cost-qrp-ft8-jt9-wspr-etc-monitoring-station-with-an-rtl-sdr-v3-and-raspberry-pi-3/
+https://www.sdrpp.org/
+
+Motion OS PI
+https://github.com/motioneye-project/motioneyeos
+
+NFC Reader Pi
+https://learn.adafruit.com/adafruit-nfc-rfid-on-raspberry-pi
+https://www.nxp.com/products/rfid-nfc/nfc-hf/nfc-readers/explore-nfc-exclusive-from-element14:PNEV512R
+
+Pine-Time Flasher
+https://github.com/lupyuen/pinetime-updater
+
+OLD RPi Distributions
+https://elinux.org/RPi_Distributions
+
+Nems
+https://nemslinux.com/download/nagios-for-raspberry-pi-4.php
+
+Rita Pi
+How to use a Raspberry Pi as a Network Sensor - Bill Stearns
+https://www.youtube.com/watch?v=vja_H59fh1I
+A|C – Sensors 2.0 | Bill Stearns & Jim Ducroiset | 1-Hour
+https://www.youtube.com/watch?v=8izmlbFkBo4
+
+Ansible control node
+
+Pi's built into badges
+
+Lapdeck Pi
+
+Epaper display pi
+
+Time Lapse
+
+Open Camera pi

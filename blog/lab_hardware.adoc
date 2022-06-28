@@ -3,13 +3,13 @@
 == For Work
 
 === Laptop
-Lenovo T480s
+Lenovo ThinkPad P1 Gen 3
 
-Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+Intel® Core™ i7-10850H CPU @ 2.70GHz × 12 
 
-UHD Graphics 620
+Mesa Intel® UHD Graphics (CML GT2)
 
-16 Gb Ram
+64 Gb Ram
 
 1 TB NVMe
 
@@ -39,6 +39,17 @@ Radeon R5 Graphics
 
 1 Tb mSata
 
+=== Thin Clients
+Used HP EliteDesk 800 G2
+
+Intel(R) Core(TM) i5
+
+UHD Graphics
+
+8 Gb Ram
+
+1 Tb mSata
+
 === Intel Next Unit of Computing (NUC)
 https://www.newegg.com/intel-bxnuc10i5fnh1/p/N82E16856102229[Intel NUC BXNUC10I5FNH1]
 
@@ -54,7 +65,9 @@ About $650 cost
 
 === Raspberry Pi
 
-Raspberry Pi 4 x7
+Raspberry Pi Compute Module 4 x1
+
+Raspberry Pi 4 x13
 
 Raspberry Pi 3 x7
 
@@ -62,10 +75,16 @@ Raspberry Pi 2 x3
 
 Raspberry Pi 1 x6
 
-Raspberry Pi 0 x8
+Raspberry Pi 0 x11
+
+Raspberry Pi 02 x1
 
 Raspberry Pi 400 x1
 
+Total Pi Count = 43
+
+Pi Pico = 7
+
 
 === NAS
-Synology DS218j
+Synology DS218+

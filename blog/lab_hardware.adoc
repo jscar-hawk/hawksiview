@@ -14,7 +14,6 @@ Mesa Intel® UHD Graphics (CML GT2)
 1 TB NVMe
 
 === Workstation
-https://pcpartpicker.com/user/jscar-hawk/saved/#view=sRhjHx[PC Part Picker List]
 
 Gigabyte B450 AORUS M
 
@@ -85,6 +84,46 @@ Total Pi Count = 43
 
 Pi Pico = 7
 
+All of the versions of Raspberry PI Camera
+
+Soooooooooo many Hats and screens
 
 === NAS
+
 Synology DS218+
+
+== Personal Machines
+
+DIY Framework Laptop (Intel 11Gen I5, 32 GB Ram, 1 TB NVMe)
+
+SteamDeck (Middle Model 256GB SSD)
+
+Apple M1 mini (base model 8GB Ram, 256 GB SSD)
+
+== Custom Build Gaming machine
+
+MSI Carbon Mobo
+
+AMD Ryzen 5 2600x Six-Core Processor
+
+GeForce GTX 3060 Ti
+
+32 Gb Ram
+
+1 TB NVMe
+
+== Open Source Hardware and Software Watches
+
+PineTime
+https://www.pine64.org/pinetime/
+
+Watchy
+https://watchy.sqfmi.com/
+
+Bangle.js 2
+https://www.espruino.com/Bangle.js2
+
+== Open Source Phones
+
+PinePhone
+https://www.pine64.org/pinephone/

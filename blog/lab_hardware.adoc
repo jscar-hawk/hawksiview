@@ -83,6 +83,7 @@ Raspberry Pi 400 x2
 Total Pi Count = 44
 
 Pi Pico = 7
+
 Pi Pico w = 4
 
 All of the versions of Raspberry PI Camera

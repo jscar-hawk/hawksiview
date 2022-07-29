@@ -101,8 +101,19 @@ https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6000-body-kit
 If you go with another camera, you will need to check for clean HDMI out.
 A great sight to check for that is https://www.elgato.com/en/cam-link/camera-check.
 
+With the Sony A6000 being unavable for the last year and a half, 
+and I don't want to spend $2000 on the A7 or FX3,
+I found another camera that is just as good.
+
+
+I am now using a 
+https://www.nikonusa.com/en/nikon-products/product/mirrorless-cameras/1749/z-30.html[Nikon Z30]
+
 
 === SmallRig Gear
+
+https://www.smallrig.com/SmallRig-Cage-for-Nikon-Z-30-3858.html[SmallRig Cage for Nikon Z 30 3858]
+
 https://www.amazon.com/SMALLRIG-Camera-ILCE-6000-ILCE-6300-Mounting/dp/B0185IAYZY/ref=sr_1_3?dchild=1&keywords=smallrig+a6000&qid=1611341672&sr=8-3[SMALLRIG Camera Cage only for Sony A6000]
 
 https://www.amazon.com/SmallRig-Cable-Panasonic-Compatible-2049-1822/dp/B01K6LHR0S/ref=sr_1_6?dchild=1&keywords=smallrig+a6000&qid=1611341672&sr=8-6[SMALLRIG HDMI Cable Clamp]

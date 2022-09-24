@@ -132,6 +132,8 @@ https://www.amazon.com/dp/B07TTGD8CG?ref=ppx_pop_mob_ap_share[CAMVATE Heavy-Duty
 == Here is my sit/stand desk
 https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12/301810799[Husky 62 in. Adjustable Height Work Table]
 
+== Office Chair 
+https://www.amazon.com/dp/B07BKTDT3F
 
 == Video capture card
 Video capture card I use types that work with linux.
@@ -159,15 +161,28 @@ https://www.amazon.com/dp/B09D8VYLY7/ref=twister_B09FYXY72K?_encoding=UTF8&psc=1
 
 === On Camera Shoe
 
+==== Starter
+
 https://www.amazon.com/VILTROX-L116T-3300K-5600K-Temperature-Brightness/dp/B07D8TTFSR[VILTROX L116T RA CRI95 Super Slim LED Light Panel]
 
 https://www.amazon.com/dp/B071GYVL7C/ref=cm_sw_r_tw_dp_Q99B22J2P1REABJRG2EJ?_encoding=UTF8&psc=1[VILTROX 2m/6.5ft Premium External Power Supply 12V 2A Output AC/DC Adapter 100-240V Input for LED Light,L116T/L116B/L13T/L132B,VILTROX Monitor DC-70/DC-50, CE FC Certification]
 There are difference power supplies, but DO NOT USE THEM IF THEY ARE NOT 12V at 2A!
 You will cook your light, and once the magic smoke is out, it can't be put back in.
 
+==== Better
+
+Elgato Key Light Air
+https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B082QHRZFW
+
 === Back Lighting
 
+==== Starter
+
 https://www.homedepot.com/p/Philips-Color-and-Tunable-White-A19-LED-60W-Equivalent-Dimmable-Smart-Wi-Fi-Wiz-Connected-Wireless-Light-Bulb-555607/310289028[Philips Color LED Wi-Fi Wiz Connected Wireless Light Bulb]
+
+==== Better
+Elgato Light Strip RGBWW LEDs
+https://www.amazon.com/Corsair-Elgato-Million-Control-Integration/dp/B08WCFCP7J
 
 
 == Monitor

@@ -13,11 +13,13 @@ Mesa Intel® UHD Graphics (CML GT2)
 
 1 TB NVMe
 
-=== Workstation
+=== Custom Built Workstation
+
+Cooler Master MasterBox Q300L Micro-ATX Tower
 
 Gigabyte B450 AORUS M
 
-AMD Ryzen 5 2600 Six-Core Processor
+AMD Ryzen 5 2600 Six-Core Processor (12 Thread)
 
 GeForce GTX 1050 Ti
 
@@ -26,6 +28,7 @@ GeForce GTX 1050 Ti
 1 TB NVMe
 
 $572 (Not including Graphics card)
+
 
 === Thin Clients
 Used HP T630

@@ -22,7 +22,7 @@ When I am looking to upgrade my Lab these are what I am looking at.
 * SO-DIMM DDR5: 32GB
 * Storage: 500GB M.2 NVMe SSD
 * Cost: $650
-* Youtube: Level1Tech-Beelink SER6 Review
+* Youtube: [Level1Tech-Beelink SER6 Review](https://www.youtube.com/watch?v=VlGWyXaIbws)
 
 == $800
 

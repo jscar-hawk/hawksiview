@@ -1,6 +1,6 @@
 When I am looking to upgrade my Lab these are what I am looking at.
 
-== $200 Range
+= $200 Range
 
 [ZimaBoard](https://shop.zimaboard.com/products/zimaboard-single-board-server-for-creators-8g-32gb-linux-windows-openwrt-pfsense-andorid-libreelec-development-board-low-cost-hackable-single-board-server?variant=39283928400070)
 
@@ -13,7 +13,7 @@ When I am looking to upgrade my Lab these are what I am looking at.
 
 
 
-== $600 Range
+= $600 Range
 
 [Beelink SER6 Pro 7735HS](https://www.bee-link.com/catalog/product/buy?id=426)
 
@@ -35,9 +35,7 @@ When I am looking to upgrade my Lab these are what I am looking at.
 * Power Supply: EVGA 700 BR 700 W 80+ Bronze Certified ATX Power Supply
 * Cost: $650 (At At Time Of Writting 2023-03-29)
 
-== $800
-
-== $1000+
+= $1000+
 
 [2023 VM Build - Ryzen 9 5th Gen](https://pcpartpicker.com/user/jscar-hawk/saved/#view=tkV4gs)
 

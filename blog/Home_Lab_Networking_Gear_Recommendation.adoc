@@ -121,7 +121,13 @@ You will get the passively cooled heat-sync case that will keep your pi cool and
 
 with the added benefit of getting all the parts you need to get started with a pi.
 
-https://www.amazon.com/Vilros-Raspberry-Complete-Heavy-Duty-Aluminum/dp/B07XTRNPF4?ref_=ast_sto_dp
+https://amzn.to/3GP4qoJ - The link is Amazon Affiliate link, which helps me fund the projects I work on.
+
+
+If you aleady have a Raspberry Pi this is the case I recommend.
+Vilros Raspberry Pi 4 Heavy Duty Aluminum Alloy Pi Cooling Case (Black)
+
+https://amzn.to/40fuHDl - The link is Amazon Affiliate link, which helps me fund the projects I work on.
 
 === Software Installed on another machine
 
@@ -139,7 +145,7 @@ https://www.ui.com/download/unifi/
 
 Price $272
 
-https://protectli.com/product/fw4b/
+https://amzn.to/43EkHGG - The link is Amazon Affiliate link, which helps me fund the projects I work on.
 
 Features:
 
@@ -152,9 +158,11 @@ Features:
 
 This is optional, but Highly recommended
 
-https://protectli.com/product/uninterruptible-power-supply/
+44 Watt Hour Uninterruptible Power Supply - Protectli Vault
 
-Price $39
+https://amzn.to/3UISs5G - The link is Amazon Affiliate link, which helps me fund the projects I work on.
+
+Price $60
 
 Features:
 

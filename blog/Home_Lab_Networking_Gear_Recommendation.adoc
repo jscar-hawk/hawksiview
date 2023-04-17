@@ -116,17 +116,15 @@ Features:
 I would suggest using a raspberry pi for this purpose.
 
 If you buy this kit from Vilros Raspberry Pi 4-2GB RAM.
-
 You will get the passively cooled heat-sync case that will keep your pi cool and noiseless,
-
 with the added benefit of getting all the parts you need to get started with a pi.
-
 https://amzn.to/3GP4qoJ - The link is Amazon Affiliate link, which helps me fund the projects I work on.
+
+
 
 
 If you aleady have a Raspberry Pi this is the case I recommend.
 Vilros Raspberry Pi 4 Heavy Duty Aluminum Alloy Pi Cooling Case (Black)
-
 https://amzn.to/40fuHDl - The link is Amazon Affiliate link, which helps me fund the projects I work on.
 
 === Software Installed on another machine

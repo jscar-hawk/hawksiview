@@ -15,7 +15,7 @@ When I am looking to upgrade my Lab these are what I am looking at.
 
 = $600 Range
 
-[Beelink SER6 Pro 7735HS](https://www.bee-link.com/catalog/product/buy?id=445)
+[Beelink SER6 Pro 7735HS](https://amzn.to/3UKpVN1)
 
 * CPU: AMD Ryzen 7 7735HS (3.2~ 4.75GHz,8-Core/16-Threads, L2 /4MB L3 /16MB)
 * Graphics/GPU: AMD Radeon™ 680M 12core 2200 MHz

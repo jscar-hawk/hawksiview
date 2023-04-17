@@ -2,7 +2,7 @@ When I am looking to upgrade my Lab these are what I am looking at.
 
 = $200 Range
 
-[ZimaBoard](https://shop.zimaboard.com/products/zimaboard-single-board-server-for-creators-8g-32gb-linux-windows-openwrt-pfsense-andorid-libreelec-development-board-low-cost-hackable-single-board-server?variant=39283928400070)
+[ZimaBoard](https://amzn.to/3GMoeZV)
 
 * Models: ZimaBoard 216/432/832
 * CPU: Intel Celeron N3350 Dual Core 1.1-2.4GHz (216 Model), or Intel Celeron N3450 Quad Core * 1.1-2.2GHz (432 & 832 Model)

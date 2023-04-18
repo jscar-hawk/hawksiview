@@ -14,6 +14,8 @@ My Linux Audio and Video Setup
 
 With a large amount the workforce going remote, I wanted to share what I am using.
 
+To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
+
 == Laptop 
 
 === Work 
@@ -35,28 +37,28 @@ https://obsproject.com/[Open Broadcast Studio]
 
 === Basic
 
-https://www.amazon.com/Razer-Seiren-Mini-Streaming-Microphone/dp/B08HH3FTYT/ref=sr_1_3?crid=3DMCJMSC33G9V&dchild=1&keywords=razer+seiren+mini&qid=1611341295&sprefix=Razer+Seiren%2Caps%2C308&sr=8-3[Razer Seiren Mini]
+https://amzn.to/3MQPXfL[Razer Seiren Mini]
 
 === Starter Mic
 
-https://www.amazon.com/Samson-Handheld-Microphone-Recording-Podcasting/dp/B001R747SG/ref=pd_cp_267_1/131-6860629-6754414?_encoding=UTF8&pd_rd_i=B001R747SG&pd_rd_r=280bdf2c-0298-4b2b-bc44-c5c1bd5e93f8&pd_rd_w=qD4YP&pd_rd_wg=cGfXE&pf_rd_p=4853e837-f87a-46d4-be32-dcf86bff7a7c&pf_rd_r=Q8FVB8F74Q0CK821FXKP&psc=1&refRID=Q8FVB8F74Q0CK821FXKP[Samson Q2U USB/XLR Dynamic Microphone Recording]
+https://amzn.to/3ok2VIN[Samson Q2U USB/XLR Dynamic Microphone Recording]
 
 
 
 === New Mic
 
-https://www.amazon.com/Rode-PODMIC-Dynamic-Podcasting-Microphone/dp/B07MSCRCVK/ref=sr_1_6?dchild=1&keywords=rode+mic&qid=1611341230&sr=8-6[Rode PodMic]
+https://amzn.to/3L6YOZk[Rode PodMic]
 
 == USB audio interface:
 
 === Beginner
 
-https://www.amazon.com/BEHRINGER-Audio-Interface-1-Channel-UM2/dp/B00EK1OTZC/ref=pd_di_sccai_9?_encoding=UTF8&pd_rd_i=B00EK1OTZC&pd_rd_r=82c1647e-12d6-4db1-9390-ee34368ea66c&pd_rd_w=kRgHx&pd_rd_wg=qk4Nc&pf_rd_p=e532f109-986a-4c2d-85fc-16555146f6b4&pf_rd_r=PB923F4ESHNW5B6DDBRR&psc=1&refRID=PB923F4ESHNW5B6DDBRR[BEHRINGER UM2 Audio Interface]
+https://amzn.to/3ollrAw[BEHRINGER UM2 Audio Interface]
 
 
 === Intermediate
 
-https://www.amazon.com/Audient-EVO-USB-Audio-Interface/dp/B084BGC5LR/ref=sr_1_1?dchild=1&keywords=evo+4&qid=1610739670&sr=8-1[Audient EVO 4]
+https://amzn.to/3UJivK4[Audient EVO 4]
 
 Works out of the Box With Fedora 35 and later,
 This does not work out of the box on Fedora 33, but there is a site that can help you get up and running with it.
@@ -71,21 +73,21 @@ https://writepermission.com/evo4-pulseaudio-profile.html
 
 https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones[SENNHEISER HD 58X JUBILEE HEADPHONES]
 
-https://www.amazon.com/Earphones-Yinyoo-Headphones-Ergonomic-Comfortable/dp/B08DNHYQTL?th=1[KZ ZSN Pro X in Ear Buds Earphones]
+https://amzn.to/40bh9ch[KZ ZSN Pro X in Ear Buds Earphones]
 
 === Wireless
 
-https://www.amazon.com/Shokz-OpenRun-Conduction-Headphones-Built/dp/B09BW1QVVT[Shokz OpenRun (AfterShokz Aeropex)]
+https://amzn.to/3oqmoaw[Shokz OpenRun (AfterShokz Aeropex)]
 
 == Mic Stand:
 
 === Starter
 
-https://www.amazon.com/InnoGear-Microphone-Windscreen-Suspension-Snowball/dp/B07CN2C93T/ref=sr_1_8?dchild=1&keywords=mic+stand&qid=1584722316&sr=8-8[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen]
+https://amzn.to/3GPICt0[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen]
 
 === Better
 
-https://www.amazon.com/Neewer-Microphone-Compatible-Adjustable-Suspension/dp/B07T44VVGF/ref=sr_1_34?crid=2ZTHT9NUU7A9E&dchild=1&keywords=neewer+mic+stand&qid=1616015024&sprefix=neewer+mi%2Caps%2C441&sr=8-34[Neewer Upgraded Large Sturdier Microphone Stand]
+https://amzn.to/3MWaeRj[Neewer Upgraded Large Sturdier Microphone Stand]
 
 
 

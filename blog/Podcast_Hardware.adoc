@@ -37,28 +37,28 @@ https://obsproject.com/[Open Broadcast Studio]
 
 === Basic
 
-https://amzn.to/3MQPXfL[Razer Seiren Mini]
+https://amzn.to/3mGgXnK[Razer Seiren Mini]
 
 === Starter Mic
 
-https://amzn.to/3ok2VIN[Samson Q2U USB/XLR Dynamic Microphone Recording]
+https://amzn.to/3H0gVxE[Samson Q2U USB/XLR Dynamic Microphone Recording]
 
 
 
 === New Mic
 
-https://amzn.to/3L6YOZk[Rode PodMic]
+https://amzn.to/3HmjbQj[Rode PodMic]
 
 == USB audio interface:
 
 === Beginner
 
-https://amzn.to/3ollrAw[BEHRINGER UM2 Audio Interface]
+https://amzn.to/41rmZHO[BEHRINGER UM2 Audio Interface]
 
 
 === Intermediate
 
-https://amzn.to/3UJivK4[Audient EVO 4]
+https://amzn.to/3USV6WH[Audient EVO 4]
 
 Works out of the Box With Fedora 35 and later,
 This does not work out of the box on Fedora 33, but there is a site that can help you get up and running with it.
@@ -73,34 +73,34 @@ https://writepermission.com/evo4-pulseaudio-profile.html
 
 https://drop.com/buy/massdrop-x-sennheiser-hd-58x-jubilee-headphones[SENNHEISER HD 58X JUBILEE HEADPHONES]
 
-https://amzn.to/40bh9ch[KZ ZSN Pro X in Ear Buds Earphones]
+https://amzn.to/3KJUqOw[KZ ZSN Pro X in Ear Buds Earphones]
 
 === Wireless
 
-https://amzn.to/3oqmoaw[Shokz OpenRun (AfterShokz Aeropex)]
+https://amzn.to/3AhkWKx[Shokz OpenRun (AfterShokz Aeropex)]
 
 == Mic Stand:
 
 === Starter
 
-https://amzn.to/3GPICt0[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen]
+https://amzn.to/43KXcvR[InnoGear Heavy Duty Microphone Stand with Mic Microphone Windscreen]
 
 === Better
 
-https://amzn.to/3MWaeRj[Neewer Upgraded Large Sturdier Microphone Stand]
+https://amzn.to/43KXcvR[Neewer Upgraded Large Sturdier Microphone Stand]
 
 
 
 == Webcam and DSLR:
 
 After 5 years of using this camera it died
-https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S[Logitech HD Pro Webcam C920]
+https://amzn.to/43KXcvR[Logitech HD Pro Webcam C920]
 
 I am currently testing the Facecam and it works with a lot of software but not everything on linux.
-https://www.elgato.com/en/facecam[Elgato Facecam]
+https://amzn.to/43KXcvR[Elgato Facecam]
 
 
-https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6000-body-kit[Sony A6000]
+https://amzn.to/3USKl6K[Sony A6000]
 
 If you go with another camera, you will need to check for clean HDMI out.
 A great sight to check for that is https://www.elgato.com/en/cam-link/camera-check.
@@ -111,28 +111,28 @@ I found another camera that is just as good.
 
 
 I am now using a 
-https://www.nikonusa.com/en/nikon-products/product/mirrorless-cameras/1749/z-30.html[Nikon Z30]
+https://amzn.to/3KOjFQ1[Nikon Z30]
 It does overheat after 2 hours of continues use, verses the Sony a6*00 Cameras.
 
 
 === SmallRig Gear
 
-https://www.smallrig.com/SmallRig-Cage-for-Nikon-Z-30-3858.html[SmallRig Cage for Nikon Z 30 3858]
+https://amzn.to/3GYflfZ[SmallRig Cage for Nikon Z 30 3858]
 
-https://www.amazon.com/SMALLRIG-Camera-ILCE-6000-ILCE-6300-Mounting/dp/B0185IAYZY/ref=sr_1_3?dchild=1&keywords=smallrig+a6000&qid=1611341672&sr=8-3[SMALLRIG Camera Cage only for Sony A6000]
+https://amzn.to/40oRahp[SMALLRIG Camera Cage only for Sony A6000]
 
-https://www.amazon.com/SmallRig-Cable-Panasonic-Compatible-2049-1822/dp/B01K6LHR0S/ref=sr_1_6?dchild=1&keywords=smallrig+a6000&qid=1611341672&sr=8-6[SMALLRIG HDMI Cable Clamp]
+https://amzn.to/41fJoaZ[SMALLRIG HDMI Cable Clamp]
 
 
 
 === Tripod and Mounting Gear
-https://www.amazon.com/Moman-Release-Lightweight-Panning-Camcorder/dp/B07GNJXTBK/ref=sr_1_1_sspa?crid=142WGTFHNTZG0&dchild=1&keywords=moman+tripod+fluid+Drag+Pan+Handle&qid=1611341387&sprefix=moman+tri%2Caps%2C236&sr=8-1-spons&psc=1&smid=A3HWZULI0V6X2B&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySUcySEhBNzdSR1BPJmVuY3J5cHRlZElkPUEwODkwNTE0MlRCWDlSMzNHVUQ1NiZlbmNyeXB0ZWRBZElkPUExMDI1NzI5MjFaTEhFQ0xKNTdGQSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=[Moman Tripod Fluid Drag Pan Head]
+https://amzn.to/41fJoaZ[Moman Tripod Fluid Drag Pan Head]
 
-https://www.amazon.com/KINGJOY-Aluminum-Mid-Level-Spreader-VT-1500/dp/B07WGBM9VH/ref=sr_1_1?crid=1N2G0K3KN2KSZ&dchild=1&keywords=fluidheadtripod&qid=1611338948&sprefix=fluithead%2Caps%2C352&sr=8-1[KingJoy 66'' Camera Tripod]
+https://amzn.to/41fJoaZ[KingJoy 66'' Camera Tripod]
 
-https://www.amazon.com/Dazzne-12-9-22inch-Tabletop-Adjustable-Aluminum/dp/B08KSTH7WN/ref=sr_1_2_sspa?crid=3QIEN5QLYTBT0&dchild=1&keywords=dazzne+desk+mount+stand&qid=1611341616&sprefix=Dazzne+desk+mount%2Caps%2C318&sr=8-2-spons&psc=1&smid=A1AGS4MWN9OLYN&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQ0o0VllKTThJSVhOJmVuY3J5cHRlZElkPUEwNjU2NDM3M0tMS0VUSFNLMzFDSCZlbmNyeXB0ZWRBZElkPUEwNTUzMzUzM0VMNFRNVlY3ODdCRiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=[Dazzne Desk Mount Stand]
+https://amzn.to/40rtitD[Dazzne Desk Mount Stand]
 
-https://www.amazon.com/dp/B07TTGD8CG?ref=ppx_pop_mob_ap_share[CAMVATE Heavy-Duty C Clamp Articulated 1/4"-20 Ball Head Support Holder (Black Locking Knob)]
+https://amzn.to/3oyibla[CAMVATE Heavy-Duty C Clamp Articulated 1/4"-20 Ball Head Support Holder (Black Locking Knob)]
 
 == Here is my sit/stand desk
 https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12/301810799[Husky 62 in. Adjustable Height Work Table]

@@ -138,7 +138,7 @@ https://amzn.to/3oyibla[CAMVATE Heavy-Duty C Clamp Articulated 1/4"-20 Ball Head
 https://www.homedepot.com/p/Husky-62-in-Adjustable-Height-Work-Table-HOLT62XDB12/301810799[Husky 62 in. Adjustable Height Work Table]
 
 == Office Chair 
-https://www.amazon.com/dp/B07BKTDT3F
+https://amzn.to/43LW0s4[SIHOO Office Chair with Pattern Mesh]
 
 == Video capture card
 Video capture card I use types that work with linux.
@@ -149,17 +149,17 @@ Here is a great site to check for that https://www.elgato.com/en/cam-link/camera
 
 === With Pass-through HDMI
 
-https://plugable.com/products/usbc-cap60/[Plugable Performance NIX Capture Card]
+https://amzn.to/3KQwtFq[Plugable Performance NIX Capture Card]
 
 === Without pass-through HDMI
 
-https://www.amazon.com/dp/B07QKXS52W/ref=cm_sw_r_em_apap_IjfRkF54cxksD[Mirabox Capture Card]
+https://amzn.to/43PRZCK[Mirabox Capture Card]
 
-https://www.amazon.com/Mirabox-Passthrough-Nintendo-Streaming-Recording/dp/B08NY3ZTTK/ref=sr_1_3?crid=31XCXOS7WYAFX&dchild=1&keywords=mirabox+capture+card&qid=1616015591&sprefix=mirabox%2Caps%2C244&sr=8-3[Mirabox USB3.0 4K HDMI Video Capture Card]
+https://amzn.to/3LhLD8k[Mirabox USB3.0 4K HDMI Video Capture Card]
 
 Currently Testing this card out because it treats the HDMI as UVC which acks as a camera.
 So Video Calling, Camera, Mac & Linux all work out of the box.
-https://www.amazon.com/dp/B09D8VYLY7/ref=twister_B09FYXY72K?_encoding=UTF8&psc=1[EVGA XR1 lite Capture Card]
+https://amzn.to/3mLMYL3[EVGA XR1 lite Capture Card]
 
 
 == Lighting Setup
@@ -168,32 +168,31 @@ https://www.amazon.com/dp/B09D8VYLY7/ref=twister_B09FYXY72K?_encoding=UTF8&psc=1
 
 ==== Starter
 
-https://www.amazon.com/VILTROX-L116T-3300K-5600K-Temperature-Brightness/dp/B07D8TTFSR[VILTROX L116T RA CRI95 Super Slim LED Light Panel]
+https://amzn.to/3ouXVRK[VILTROX L116T RA CRI95 Super Slim LED Light Panel]
 
-https://www.amazon.com/dp/B071GYVL7C/ref=cm_sw_r_tw_dp_Q99B22J2P1REABJRG2EJ?_encoding=UTF8&psc=1[VILTROX 2m/6.5ft Premium External Power Supply 12V 2A Output AC/DC Adapter 100-240V Input for LED Light,L116T/L116B/L13T/L132B,VILTROX Monitor DC-70/DC-50, CE FC Certification]
+https://amzn.to/3LeuY5f[VILTROX 2m/6.5ft Premium External Power Supply 12V 2A Output AC/DC Adapter 100-240V Input for LED Light,L116T/L116B/L13T/L132B,VILTROX Monitor DC-70/DC-50, CE FC Certification]
 There are difference power supplies, but DO NOT USE THEM IF THEY ARE NOT 12V at 2A!
 You will cook your light, and once the magic smoke is out, it can't be put back in.
 
 ==== Better
 
-Elgato Key Light Air
-https://www.amazon.com/Elgato-Key-Light-Professional-App-Enabled/dp/B082QHRZFW
+https://amzn.to/3H0FjiS[Elgato Key Light Air]
 
 === Back Lighting
 
 ==== Starter
 
-https://www.homedepot.com/p/Philips-Color-and-Tunable-White-A19-LED-60W-Equivalent-Dimmable-Smart-Wi-Fi-Wiz-Connected-Wireless-Light-Bulb-555607/310289028[Philips Color LED Wi-Fi Wiz Connected Wireless Light Bulb]
+https://amzn.to/3USG96N[Philips Color LED Wi-Fi Wiz Connected Wireless Light Bulb]
 
 ==== Better
-Elgato Light Strip RGBWW LEDs
-https://www.amazon.com/Corsair-Elgato-Million-Control-Integration/dp/B08WCFCP7J
+
+https://amzn.to/41J8dMh[Elgato Light Strip RGBWW LEDs]
 
 
 == Monitor
 
-https://www.amazon.com/Samsung-S34J55W-34-Inch-Ultrawide-LS34J550WQNXZA/dp/B07FBS36W2/ref=sr_1_2_sspa?dchild=1&keywords=samsung+32+inch+3840+x+1440&qid=1612985140&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSElQMjBCRkJVSEZBJmVuY3J5cHRlZElkPUEwOTM0MzY3MUw5UTNWQlZSRldBUCZlbmNyeXB0ZWRBZElkPUEwODkwMzQwWkNHWTBRSzIyRkpZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==[Samsung 34-Inch SJ55W Ultrawide Gaming Monitor]
+https://amzn.to/3LevdNH[Samsung 34-Inch SJ55W Ultrawide Gaming Monitor]
 
 == Monitor Arm
 
-https://www.amazon.com/dp/B07CHMDJQP?ref=ppx_pop_mob_ap_share[HUANUO Single Arm Monitor Stand]
+https://amzn.to/41Kyl9M[HUANUO Single Arm Monitor Stand]

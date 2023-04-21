@@ -1,5 +1,7 @@
 = My Lab Hardware
 
+To help fund the projects I work on, the links are Amazon Affiliate links. This will let amazon know I sent you, and give me a small kickback if you buy that product. None of these are sponsorship, they do not get to see what I am saying about the products before I post online. Theses are products that I use and recommend!
+
 == For Work
 
 === Laptop
@@ -53,15 +55,15 @@ UHD Graphics
 1 Tb mSata
 
 === Intel Next Unit of Computing (NUC)
-https://www.newegg.com/intel-bxnuc10i5fnh1/p/N82E16856102229[Intel NUC BXNUC10I5FNH1]
+https://amzn.to/3KVgANX[Intel NUC BXNUC10I5FNH1]
 
 Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
 
 UHD Graphics
 
-https://www.newegg.com/samsung-32gb-260-pin-ddr4-so-dimm/p/0RM-002H-00156[32 Gb Ram]
+https://amzn.to/3owrsKS[32 Gb Ram]
 
-https://www.newegg.com/western-digital-black-sn750-nvme-1tb/p/N82E16820250110[1 Tb NVMe]
+https://amzn.to/3H63PPz[1 Tb NVMe]
 
 About $650 cost
 

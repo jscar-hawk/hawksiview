@@ -7,7 +7,7 @@ Theses are products that I use and recommend!
 
 = $200 Range
 
-[ZimaBoard](https://amzn.to/3GMoeZV)
+[ZimaBoard](https://amzn.to/3nudI30)
 
 * Models: ZimaBoard 216/432/832
 * CPU: Intel Celeron N3350 Dual Core 1.1-2.4GHz (216 Model), or Intel Celeron N3450 Quad Core * 1.1-2.2GHz (432 & 832 Model)
@@ -20,7 +20,7 @@ Theses are products that I use and recommend!
 
 = $600 Range
 
-[Beelink SER6 Pro 7735HS](https://amzn.to/3UKpVN1)
+[Beelink SER6 Pro 7735HS](https://amzn.to/3LT5ElC)
 
 * CPU: AMD Ryzen 7 7735HS (3.2~ 4.75GHz,8-Core/16-Threads, L2 /4MB L3 /16MB)
 * Graphics/GPU: AMD Radeon™ 680M 12core 2200 MHz

@@ -16,13 +16,23 @@ Theses are products that I use and recommend!
 * HDD/SSD: 2x SATA 6.0 Gb/s Ports
 * LAN: 2x GbE LAN Ports
 
+= $400 Range
+
+[Beelink SER5 PRO 5800H](https://amzn.to/44YgZbD)
+
+* CPU: AMD Ryzen 7 5800H (3.2GHz~4.4GHz,8-Core/16-Threads, L2 /4MB L3 /16MB)
+* Graphics/GPU: AMD Radeon Graphics 8core 2000 MHz GPU
+* RAM: 16GB SO-DIMM DDR4
+* Storage: 500GB M.2 NVMe SSD
+* Cost: $335 (With Prime in the US)
+* Youtube: [Beelink SER5 Pro 5800H: Affordable 8-core 45W MiniPC](https://www.youtube.com/watch?v=NYGLgwFCLWk)
 
 
 = $600 Range
 
 [Beelink SER6 Pro 7735HS](https://amzn.to/3LT5ElC)
 
-* CPU: AMD Ryzen 7 7735HS (3.2~ 4.75GHz,8-Core/16-Threads, L2 /4MB L3 /16MB)
+* CPU: AMD Ryzen 7 7735HS (3.2~4.75GHz,8-Core/16-Threads, L2 /4MB L3 /16MB)
 * Graphics/GPU: AMD Radeon™ 680M 12core 2200 MHz
 * RAM: 32GB SO-DIMM DDR5
 * Storage: 500GB M.2 NVMe SSD

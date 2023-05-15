@@ -18,7 +18,7 @@ Theses are products that I use and recommend!
 
 = $400 Range
 
-[Beelink SER5 PRO 5800H](https://amzn.to/44YgZbD)
+[Beelink SER5 PRO 5800H](https://amzn.to/42Cze4W)
 
 * CPU: AMD Ryzen 7 5800H (3.2GHz~4.4GHz,8-Core/16-Threads, L2 /4MB L3 /16MB)
 * Graphics/GPU: AMD Radeon Graphics 8core 2000 MHz GPU

@@ -27,6 +27,15 @@ Theses are products that I use and recommend!
 * Cost: $335 (With Prime in the US)
 * Youtube: [Beelink SER5 Pro 5800H: Affordable 8-core 45W MiniPC](https://www.youtube.com/watch?v=NYGLgwFCLWk)
 
+I upgraded my box with the following.
+* I bought 2 sticks of [Corsair Vengeance Performance SODIMM Memory 32GB (2x16GB) DDR4 3200MHz](https://amzn.to/3BsRx0A) $62 Per Unit
+* I Added a [Western Digital 1TB WD Blue SN570 NVMe](https://amzn.to/453Rxle) $45
+* I bought [Western Digital 250GB WD Blue SA510 SSD](https://amzn.to/3MqGDPc) $34 I removed the SSD from the case then wrapped it
+* Kapton Tape A.k.a. [Hight Temperature Resistant tape](https://amzn.to/41D6ibJ) $12
+
+My Total cost was $550 from using older gear and buying new gear to put into this machine.
+I needed 2 drives for Openshift SNO install.
+
 
 = $600 Range
 
